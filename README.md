@@ -8,7 +8,7 @@ The goal of this project is to increase accesibilty to our site by omptimizing i
 ## Usage
 
 ## Credits
-[Andrew Lawrence]{https://www.github.com/acaseyl}
+[Andrew Lawrence](https://www.github.com/acaseyl)
 ## License
 This is free and unencumbered software released into the public domain.
 
