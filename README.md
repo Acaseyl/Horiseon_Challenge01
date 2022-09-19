@@ -4,7 +4,7 @@
 The goal of this project is to increase accesibilty to our site by omptimizing it for search engines.  By cleaning up the CSS file to avoid redundancies and adding semantic elements to the HTML file we can follow industry best practices.
 
 ## Screenshots
-
+[Website display](https://github.com/Acaseyl/Horiseon_Challenge01/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 [Andrew Lawrence](https://www.github.com/acaseyl)
