@@ -1,4 +1,4 @@
-# Acessibility standards
+# Accessibility standards
 
 ## Description
 The goal of this project is to increase accesibilty to our site by omptimizing it for search engines.  By cleaning up the CSS file to avoid redundancies and adding semantic elements to the HTML file, we can follow industry best practices.
